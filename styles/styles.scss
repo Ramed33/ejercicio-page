@@ -1,0 +1,54 @@
+body {
+  background-color: #faebd7;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  padding: 15px 40px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  background-color: #00ffff;
+  font-size: 1rem;
+
+    img{
+        width: 45px;
+    }
+}
+
+main {
+  width: 100%;
+  font-size: 1.2rem;
+  margin: 0 auto;
+  box-sizing: border-box;
+
+  h1 {
+    font-size: 3rem;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+  }
+  
+  h3 {
+    font-size: 2rem;
+  }
+  
+  h4 {
+    font-size: 1.5rem;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 10%;
+  }
+  
+  p {
+    width: auto;
+    text-align: justify;
+  }
+  
+  li {
+    font-weight: 800;
+  }
+}
